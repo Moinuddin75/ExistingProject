@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new bug 
+=======
+hofix bug solved
+>>>>>>> 815395c (hotfix bug fixed on hotbix branch)

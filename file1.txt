@@ -1,1 +1,1 @@
-Fixed a bug aka feature 
+stash example 
